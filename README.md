@@ -51,7 +51,7 @@
 </td>
 <td>
 
-![image](https://github.com/user-attachments/assets/ecf61554-6b42-44fe-8994-1bae10e888a5)
+![image](https://github.com/user-attachments/assets/e4136cce-e7ee-4aab-af60-5e56751d9e9b)
 
 </td>
 </tr>
@@ -78,9 +78,6 @@
       ],
       "wantType1": "string",
       "wantType2": "string",
-      "wantHobby": [
-        "string"
-      ]
     }
      ```
 - **Results 👉👉👉**
@@ -88,8 +85,7 @@
 </td>
 <td>
 
-![image](https://github.com/user-attachments/assets/e7f42e2b-e1b5-4c49-b672-ee6addf3ced5)
-
+![image](https://github.com/user-attachments/assets/3f7dadbc-a4bf-4a9c-9542-5e23ee10db57)
 
 </td>
 </tr>
